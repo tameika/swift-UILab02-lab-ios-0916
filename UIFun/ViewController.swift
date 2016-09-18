@@ -87,43 +87,8 @@ class ViewController: UIViewController {
         mixColors(withFirst: firstColor, second: secondColor)
         
         
-        
-
- 
-        
-        
-        
-        
-        //        if firstColorPressed.paintColorName == "red"{
-//                print("first pressed is red")
-//        
-//            if secondColorPressed.paintColorName == "yellow" {
-//               mixColors(withFirst: "red", second: "yellow")
-//                return "orange"
-//        
-//        paintBucketColor.paintColorName = mixColors(withFirst: "red", second: "red")
-//        
-//        paintBucketColor.paintColorName = mixColors(withFirst: "red", second: "blue")
-//        paintBucketColor.paintColorName = mixColors(withFirst: "yellow", second: "red")
-//        paintBucketColor.paintColorName = mixColors(withFirst: "yellow", second: "blue")
-//        paintBucketColor.paintColorName = mixColors(withFirst: "yellow", second: "yellow")
-//        paintBucketColor.paintColorName = mixColors(withFirst: "blue", second: "red")
-//        paintBucketColor.paintColorName = mixColors(withFirst: "blue", second: "yellow")
-//        paintBucketColor.paintColorName = mixColors(withFirst: "blue", second: "blue")
     }
 }
-
-//}
-//}
-
-//        mixColors(withFirst: "red", second: "blue")
-//        print("colors pressed make purple")
-//        return paintBucketColor.paintColorName = "purple"
-//       
-
-
-
-
 
 
 
